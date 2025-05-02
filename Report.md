@@ -2,7 +2,7 @@
 
 ## Project Report
 
-**Submitted by:** Shashikant Kumar Bind, Mohd Mamza, Siddharth Kumar  
+**Submitted by:** Shashikant Kumar Bind, Mohd Hamza, Siddharth Kumar  
 **Course:** BTech(ECE)  
 **Supervisor:** Assistance Professor Sangeeta Yadav  
 **Date:** [Apr 20, 2025]  
